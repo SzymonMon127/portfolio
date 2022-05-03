@@ -180,10 +180,10 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding-right: 1rem;
+  padding-right: 18rem;
 }
 .header-content .right-header .name {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 .header-content .right-header .name span {
   color: var(--color-secondary);
